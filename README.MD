@@ -93,23 +93,3 @@ public class BoardgameController {
     }
 }
 ```
-
-
-
-
-
-
-## BoardgameGeek calls
-https://www.boardgamegeek.com/xmlapi/search?search=Eclipse
-https://www.boardgamegeek.com/xmlapi/search?search=Eclipse Board Game
-
-=>
-
-https://www.boardgamegeek.com/xmlapi/boardgame/72125
-
-
-
-
-
-### UPC Database
-https://api.upcitemdb.com/prod/trial/lookup?upc=6430018270036# hateoas-boardgame-library
